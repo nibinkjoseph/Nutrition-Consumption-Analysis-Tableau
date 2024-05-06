@@ -14,7 +14,7 @@ https://public.tableau.com/authoring/NutritionConsumptionAnalysis_17048674643050
 
 Inspired by:https://public.tableau.com/app/profile/phonethiriyadana/vizzes
 
-Nutrition Consumption Analysis: A Detailed Breakdown
+Nutrition Consumption Analysis: 
 This dashboard provides a comprehensive overview of an individual's calorie consumption, categorized by meal type, food score (healthiness), and daily trends.
 
 Key Observations:
