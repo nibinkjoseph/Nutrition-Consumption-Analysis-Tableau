@@ -19,7 +19,7 @@ This dashboard provides a comprehensive overview of an individual's calorie cons
 
 Key Observations:
 
-High Calorie Intake: The individual consumes an average of 2,359 calories per day, exceeding the assumed goal of 2,500 calories by 94.38%. This suggests a potential need for calorie reduction depending on individual goals and activity levels.
+High Calorie Intake: The individual consumes an average of 2,359 calories per day, exceeding the assumed goal of 2,000 calories by 7% This suggests a potential need for calorie reduction depending on individual goals and activity levels.
 Uneven Meal Distribution: Dinner contributes the most calories (38.0k), followed by lunch (28.1k) and snacks (20.0k). Breakfast and dessert have significantly lower calorie contributions. This highlights an imbalance in calorie distribution throughout the day.
 Unhealthy Choices Dominant: The "Calories per Food Score" chart reveals a concerning trend. The majority of calories come from unhealthy food choices, followed by neutral and a small portion from healthy options. This suggests a need for dietary changes to incorporate more nutritious foods.
 Fluctuating Trend: The "Calories over period" graph showcases significant variation in daily calorie intake. While there are periods of lower consumption, spikes throughout suggest inconsistency and potential difficulty in maintaining a stable calorie intake.
